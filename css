@@ -13,5 +13,5 @@ header .bg-blue-600{display:none !important;}
 .header-wrapper,.sidebar-wrapper{width: 11rem !important;}
 .filter-query-container{padding-bottom:0.5rem;}
 
-/* 霞鹜文楷字体 */
+/* 霞鹜文楷字体，还需要加上脚本 */
 body{font-family: "LXGW WenKai Screen", sans-serif !important;}
